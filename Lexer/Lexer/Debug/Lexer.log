@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\vovanni\documents\visual studio 2015\projects\lexer\lexer\lexer.h(45): warning C4129: +: неизвестная escape-последовательность
+c:\users\vovanni\documents\visual studio 2015\projects\lexer\lexer\lexer.h(45): warning C4129: *: неизвестная escape-последовательность
+c:\users\vovanni\documents\visual studio 2015\projects\lexer\lexer\lexer.h(54): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\vovanni\documents\visual studio 2015\projects\lexer\lexer\source.cpp(32): warning C4018: <: несоответствие типов со знаком и без знака
+  Lexer.vcxproj -> C:\Users\Vovanni\Documents\Visual Studio 2015\Projects\Lexer\Debug\Lexer.exe
+  Lexer.vcxproj -> C:\Users\Vovanni\Documents\Visual Studio 2015\Projects\Lexer\Debug\Lexer.pdb (Partial PDB)
