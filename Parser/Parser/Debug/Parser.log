@@ -1,0 +1,10 @@
+﻿  Source.cpp
+c:\users\vovanni\documents\visual studio 2015\projects\parser\parser\lexer.h(45): warning C4129: +: неизвестная escape-последовательность
+c:\users\vovanni\documents\visual studio 2015\projects\parser\parser\lexer.h(46): warning C4129: *: неизвестная escape-последовательность
+c:\users\vovanni\documents\visual studio 2015\projects\parser\parser\lexer.h(55): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\vovanni\documents\visual studio 2015\projects\parser\parser\source.cpp(35): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\vovanni\documents\visual studio 2015\projects\parser\parser\source.cpp(53): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\vovanni\documents\visual studio 2015\projects\parser\parser\source.cpp(60): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\vovanni\documents\visual studio 2015\projects\parser\parser\source.cpp(67): warning C4018: <: несоответствие типов со знаком и без знака
+  Parser.vcxproj -> C:\Users\Vovanni\documents\visual studio 2015\Projects\Parser\Debug\Parser.exe
+  Parser.vcxproj -> C:\Users\Vovanni\documents\visual studio 2015\Projects\Parser\Debug\Parser.pdb (Partial PDB)
