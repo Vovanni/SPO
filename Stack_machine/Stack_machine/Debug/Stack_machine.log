@@ -1,0 +1,13 @@
+﻿  Source.cpp
+c:\users\vovanni\documents\visual studio 2015\projects\stack_machine\stack_machine\lexer.h(43): warning C4129: +: неизвестная escape-последовательность
+c:\users\vovanni\documents\visual studio 2015\projects\stack_machine\stack_machine\lexer.h(44): warning C4129: *: неизвестная escape-последовательность
+c:\users\vovanni\documents\visual studio 2015\projects\stack_machine\stack_machine\lexer.h(53): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\vovanni\documents\visual studio 2015\projects\stack_machine\stack_machine\stack_machine.h(25): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\vovanni\documents\visual studio 2015\projects\stack_machine\stack_machine\stack_machine.h(99): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\vovanni\documents\visual studio 2015\projects\stack_machine\stack_machine\source.cpp(36): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\vovanni\documents\visual studio 2015\projects\stack_machine\stack_machine\source.cpp(56): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\vovanni\documents\visual studio 2015\projects\stack_machine\stack_machine\source.cpp(63): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\vovanni\documents\visual studio 2015\projects\stack_machine\stack_machine\source.cpp(73): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\vovanni\documents\visual studio 2015\projects\stack_machine\stack_machine\stack_machine.h(66): warning C4715: STACK::Logic_ret: значение возвращается не при всех путях выполнения
+  Stack_machine.vcxproj -> C:\Users\Vovanni\Documents\Visual Studio 2015\Projects\Stack_machine\Debug\Stack_machine.exe
+  Stack_machine.vcxproj -> C:\Users\Vovanni\Documents\Visual Studio 2015\Projects\Stack_machine\Debug\Stack_machine.pdb (Partial PDB)
